@@ -530,7 +530,6 @@ header .go-back i {
 
 /* 背景图效果. */
 .bg-cover {
-  /*
   display: flex;
   align-items: center;
   height: 60vh;
@@ -540,7 +539,6 @@ header .go-back i {
   background-position: center center;
   background-size: cover;
   transform: translate3d(0px, 0px, 0px);
-  */
 }
 
 .index-cover {
@@ -560,7 +558,6 @@ header .go-back i {
 
 .bg-cover:before,
 .bg-cover:after {
-  /*
   position: absolute;
   z-index: 1;
   width: 100%;
@@ -569,7 +566,6 @@ header .go-back i {
   left: 0;
   top: 0;
   content: "";
-  */
 }
 
 .bg-cover .container {
